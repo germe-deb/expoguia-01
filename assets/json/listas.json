@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "x": 100,
+    "y": 200,
+    "z": 0,
+    "texto": "Armado de Hormigón",
+    "curso": 502,
+    "especialidad": "Construcciones"
+  },
+  {
+    "id": 2,
+    "x": 300,
+    "y": 150,
+    "z": 0,
+    "texto": "Despiece de un motor trifásico",
+    "curso": 701,
+    "especialidad": "Electromecánica"
+  },
+  {
+    "id": 3,
+    "x": 500,
+    "y": 400,
+    "z": 1,
+    "texto": "Obra de teatro",
+    "curso": 400,
+    "especialidad": "Todas"
+  },
+  {
+    "id": 4,
+    "x": 100,
+    "y": 100,
+    "z": 0,
+    "texto": "ExpoGuía",
+    "curso": 701,
+    "especialidad": "Electromecánica"
+  }
+]
