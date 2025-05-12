@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2025 germe-deb <dpkg.luci@protonmail.com>
+--
 -- SPDX-License-Identifier: MIT
 
 -- Librería de UI hecha para ExpoGuía.
