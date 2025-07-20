@@ -1,0 +1,92 @@
+[
+  {
+    "x": -130,
+    "y": 23,
+    "floor": 1,
+    "texto": "Ejemplo de\nConstrucciones",
+    "curso": 502,
+    "especialidad": "C",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 300,
+    "y": 150,
+    "floor": 1,
+    "texto": "Ejemplo de Electro",
+    "curso": 701,
+    "especialidad": "E",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 200,
+    "y": 100,
+    "floor": 2,
+    "texto": "Ejemplo de ciclo\nbásico",
+    "curso": 301,
+    "especialidad": "",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 100,
+    "y": 100,
+    "floor": 1,
+    "texto": "Ejemplo de electro",
+    "curso": 701,
+    "especialidad": "E",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 110,
+    "y": 100,
+    "floor": 1,
+    "texto": "Ejemplo de IPP",
+    "curso": 501,
+    "especialidad": "IPP",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 200,
+    "y": 100,
+    "floor": 2,
+    "texto": "Ejemplo de\nConstrucciones",
+    "curso": 401,
+    "especialidad": "C",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 120,
+    "y": 100,
+    "floor": 1,
+    "texto": "Ejemplo 3",
+    "curso": 503,
+    "especialidad": "C",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 100,
+    "y": 90,
+    "floor": 1,
+    "texto": "Ejemplo 4",
+    "curso": 601,
+    "especialidad": "E",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 110,
+    "y": 90,
+    "floor": 1,
+    "texto": "Ejemplo 5",
+    "curso": 602,
+    "especialidad": "C",
+    "profesor": "Profesor"
+  },
+  {
+    "x": 120,
+    "y": 90,
+    "floor": 1,
+    "texto": "Ejemplo 6",
+    "curso": 101,
+    "especialidad": "",
+    "profesor": "Profesor"
+  }
+]
